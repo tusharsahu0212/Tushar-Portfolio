@@ -34,11 +34,12 @@ main{
 }
 
 .card img{
-
-    height: 60%;
-    width: 95%;
-
+    
+    height: 33vw;
+    width: 68vw;
     border-radius: inherit;
+    max-width: 671px;
+    max-height: 286px;
 
 }
 
