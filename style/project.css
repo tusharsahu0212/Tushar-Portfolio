@@ -1,0 +1,23 @@
+main{
+
+    box-shadow: 0px 0px 6px 2px black;
+    border-radius: 20px;
+
+
+    margin: 30px 5%;
+    padding: 30px 55px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+
+.project h2{
+
+    margin-bottom: 20px;
+}
+
+.project li{
+    margin-bottom: 10px;
+}
